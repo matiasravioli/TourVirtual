@@ -310,7 +310,7 @@ function App() {
 
         <div className="header-text">
           <h1>Heidelberg Center para América Latina</h1>
-          <p>Tour Virtual</p>
+          <p>Tour Virtuales</p>
         </div>
       </header>
 
